@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on my health and self-improvement.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesperestevanleong&label=Profile%20views&color=0e75b6&style=flat" alt="jesperestevanleong" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesperestevanleong" alt="jesperestevanleong" /></a> </p>
+### 📈 Github Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesperestevanleong&show_icons=true&locale=en&layout=compact" alt="jesperestevanleong" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperestevanleong&show_icons=true&locale=en" alt="jesperestevanleong" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremyl95&show_icons=true&theme=dracula&line_height=33" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyl95&theme=dracula&line_height=10">
+</p>
 
