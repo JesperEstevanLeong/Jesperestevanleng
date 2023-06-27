@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **Jesperleong.work@gmail.com**
 
+- 🔭 I’m currently working on my health and self-improvement.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesperestevanleong&label=Profile%20views&color=0e75b6&style=flat" alt="jesperestevanleong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesperestevanleong" alt="jesperestevanleong" /></a> </p>
