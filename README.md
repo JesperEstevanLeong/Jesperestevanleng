@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesperestevanleong
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
 - 📫 How to reach me - Email: jesperleong.work@gmail.com
 
 <!---
